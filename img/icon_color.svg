@@ -28,13 +28,14 @@
      inkscape:window-height="1361"
      id="namedview17"
      showgrid="false"
-     inkscape:zoom="0.4921875"
-     inkscape:cx="85.314785"
-     inkscape:cy="629.64681"
+     inkscape:zoom="0.34802912"
+     inkscape:cx="152.62049"
+     inkscape:cy="207.19134"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg8" />
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0" />
   <defs
      id="defs2">
     <linearGradient
@@ -102,10 +103,17 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <rect
+     style="fill:#191919;stroke-width:0;stop-color:#000000;fill-opacity:1"
+     id="rect841"
+     width="270.93332"
+     height="270.93332"
+     x="0"
+     y="0" />
   <g
      id="layer8"
      style="display:inline;fill:#316cb5;fill-opacity:1">
